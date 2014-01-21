@@ -21,6 +21,7 @@
 		00AC2EC9188E10A300CE959C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00AC2EAB188E10A200CE959C /* UIKit.framework */; };
 		00AC2ED1188E10A300CE959C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00AC2ECF188E10A300CE959C /* InfoPlist.strings */; };
 		00AC2ED3188E10A300CE959C /* Ex3_72PTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00AC2ED2188E10A300CE959C /* Ex3_72PTests.m */; };
+		00AC2EDD188E11B100CE959C /* girl1.png in Resources */ = {isa = PBXBuildFile; fileRef = 00AC2EDC188E11B100CE959C /* girl1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00AC2ECE188E10A300CE959C /* Ex3.72PTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Ex3.72PTests-Info.plist"; sourceTree = "<group>"; };
 		00AC2ED0188E10A300CE959C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00AC2ED2188E10A300CE959C /* Ex3_72PTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ex3_72PTests.m; sourceTree = "<group>"; };
+		00AC2EDC188E11B100CE959C /* girl1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = girl1.png; path = ../../../../Downloads/girl1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		00AC2EAD188E10A200CE959C /* Ex3.72P */ = {
 			isa = PBXGroup;
 			children = (
+				00AC2EDC188E11B100CE959C /* girl1.png */,
 				00AC2EB6188E10A200CE959C /* AppDelegate.h */,
 				00AC2EB7188E10A200CE959C /* AppDelegate.m */,
 				00AC2EB9188E10A200CE959C /* Main.storyboard */,
@@ -231,6 +234,7 @@
 				00AC2EC0188E10A200CE959C /* Images.xcassets in Resources */,
 				00AC2EB2188E10A200CE959C /* InfoPlist.strings in Resources */,
 				00AC2EBB188E10A200CE959C /* Main.storyboard in Resources */,
+				00AC2EDD188E11B100CE959C /* girl1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
